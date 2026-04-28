@@ -16,9 +16,9 @@
       <td valign="middle" align="center" width="50%">
         <h4>Tech Stack</h4>
         <br/>
-        <img width="340" src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker&perline=5" />
+        <img width="340" src="https://skillicons.dev/icons?i=cpp,py,java,bash,gcp,aws,linux,docker&perline=4" />
         <br/><br/>
-        <sub>Languages · Tools · Cloud</sub>
+        <sub>Languages · Tools </sub>
       </td>
       <td valign="middle" align="center" width="50%">
         <h4>Activity</h4>
