@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Baganaa388">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;C%2B%2B+Developer;CS+Student+from+Mongolia;Always+learning+something+new&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?;C%2B%2BAlways+learning+something+new&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"/>
   </a>
 </p>
 
@@ -14,33 +14,20 @@
 
 ### About me
 
-- CS student from **Mongolia**, passionate about **competitive programming**
 - Currently sharpening my problem-solving skills with **C++**
-- Solving algorithmic challenges daily on HackerRank and other judges
-- Building web projects with the **TEEE** team on the side
 - Big believer in *consistency over talent* — one problem at a time
 
 ---
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Always%20Learning-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,git,github,vscode,linux&perline=10" />
+  </a>
 </p>
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baganaa388&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=280" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=tokyonight&hide_border=true&card_width=280" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baganaa388&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" height="160"/>
-</p>
 
 ---
 
