@@ -10,35 +10,25 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker,git&perline=8" />
-</p>
-
-<br/>
-
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Baganaa388&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true&card_width=380&icon_color=58A6FF" />
+      <td valign="middle" align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker,git&perline=4" />
       </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baganaa388&layout=compact&theme=transparent&hide_border=true&card_width=380&langs_count=6&hide_title=true" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=transparent&hide_border=true" />
-      </td>
-      <td align="center" valign="middle">
-        <h4>Now</h4>
-        <code>solving</code> algorithm problems<br/>
-        <code>sharpening</code> C++ skills<br/>
-        <code>building</code> TEEE projects
+      <td valign="middle" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=transparent&hide_border=true&card_width=380" />
       </td>
     </tr>
   </table>
 </div>
+
+<br/>
+
+<p align="center">
+  <i>"Once we accept our limits, we go beyond them."</i><br/>
+  <sub>— Albert Einstein</sub>
+</p>
 
 <br/>
 
