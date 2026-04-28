@@ -16,7 +16,7 @@
       <td valign="middle" align="center" width="50%">
         <h4>Tech Stack</h4>
         <br/>
-        <img width="340" src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,gcp,linux,docker,git,vscode&perline=4" />
+        <img width="340" src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker&perline=5" />
         <br/><br/>
         <sub>Languages · Tools · Cloud</sub>
       </td>
