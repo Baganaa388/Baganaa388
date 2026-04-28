@@ -16,16 +16,29 @@
 
 <br/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baganaa388&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&card_width=380&icon_color=58A6FF" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=transparent&hide_border=true" />
-</p>
-
-<br/>
-
-<p align="center">
-  <code>now</code> · solving algorithm problems · sharpening C++ skills
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Baganaa388&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true&card_width=380&icon_color=58A6FF" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baganaa388&layout=compact&theme=transparent&hide_border=true&card_width=380&langs_count=6&hide_title=true" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=transparent&hide_border=true" />
+      </td>
+      <td align="center" valign="middle">
+        <h4>Now</h4>
+        <code>solving</code> algorithm problems<br/>
+        <code>sharpening</code> C++ skills<br/>
+        <code>building</code> TEEE projects
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
