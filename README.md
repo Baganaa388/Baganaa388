@@ -14,24 +14,22 @@
 
 ### About me
 
-- Mongolia-аас competitive programmer
-- Одоогоор C++ дээр алгоритм бодож байна
-- TEEE багт ажилладаг
-- HackerRank: [bbaganaa56](https://www.hackerrank.com/profile/bbaganaa56)
+- CS student from **Mongolia**, passionate about **competitive programming**
+- Currently sharpening my problem-solving skills with **C++**
+- Solving algorithmic challenges daily on HackerRank and other judges
+- Building web projects with the **TEEE** team on the side
+- Big believer in *consistency over talent* — one problem at a time
 
 ---
 
 ### Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
 ---
@@ -39,12 +37,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baganaa388&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baganaa388&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Baganaa388&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=280" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=tokyonight&hide_border=true&card_width=280" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baganaa388&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" height="160"/>
 </p>
 
 ---
@@ -52,7 +47,7 @@
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baganaa388&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Baganaa388&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
 </p>
 
 ---
@@ -65,15 +60,5 @@
 
 ---
 
-### Connect with me
-
-<p align="left">
-  <a href="https://www.hackerrank.com/profile/bbaganaa56">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="mailto:baganaa237@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center"><i>"The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie</i></p>
