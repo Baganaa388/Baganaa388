@@ -13,10 +13,15 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="middle" align="center">
+      <td valign="middle" align="center" width="50%">
+        <h4>Tech Stack</h4>
+        <br/>
         <img src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker,git&perline=4" />
+        <br/><br/>
+        <sub>Languages · Tools · Cloud</sub>
       </td>
-      <td valign="middle" align="center">
+      <td valign="middle" align="center" width="50%">
+        <h4>Activity</h4>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=transparent&hide_border=true&card_width=380" />
       </td>
     </tr>
@@ -28,10 +33,4 @@
 <p align="center">
   <i>"Once we accept our limits, we go beyond them."</i><br/>
   <sub>— Albert Einstein</sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Baganaa388&label=views&color=8b949e&style=flat-square"/>
 </p>
