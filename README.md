@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Baganaa388">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;C%2B%2B+Developer;Always+learning+something+new&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+something+new&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,docker&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker&perline=7" />
   </a>
 </p>
 
