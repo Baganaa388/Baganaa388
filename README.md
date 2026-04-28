@@ -1,49 +1,33 @@
-<h1 align="center">Hi, I'm Baganaa</h1>
+<h3 align="center">Hi, I'm Baganaa</h3>
 
 <p align="center">
   <a href="https://github.com/Baganaa388">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+something+new&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+something+new&center=true&width=380&height=30&color=8b949e&vCenter=true&size=16&duration=4000"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Baganaa388&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <code>Mongolia</code> · <code>C++</code> · <code>Algorithms</code> · <code>Problem Solving</code>
 </p>
 
----
-
-### About me
-
-- Currently sharpening my problem-solving skills with **C++**
-- Big believer in *consistency over talent* — one problem at a time
-
----
-
-### Tech Stack
+<br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker,git&perline=8" />
 </p>
 
----
-
-### Trophies
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baganaa388&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Baganaa388&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide=contribs&card_width=420&icon_color=58A6FF" />
 </p>
-
----
-
-### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baganaa388&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=transparent&hide_border=true" />
 </p>
 
----
+<br/>
 
-
-<p align="center"><i>"The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Baganaa388&label=views&color=8b949e&style=flat-square"/>
+</p>
