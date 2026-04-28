@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <code>Mongolia</code> · <code>C++</code> · <code>Algorithms</code> · <code>Problem Solving</code>
+  <code>Algorithms</code> · <code>Problem Solving</code>
 </p>
 
 <br/>
@@ -16,7 +16,7 @@
       <td valign="middle" align="center" width="50%">
         <h4>Tech Stack</h4>
         <br/>
-        <img src="https://skillicons.dev/icons?i=c,cpp,py,java,gcp,linux,docker,git&perline=4" />
+        <img width="340" src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,gcp,linux,docker,git,vscode&perline=4" />
         <br/><br/>
         <sub>Languages · Tools · Cloud</sub>
       </td>
