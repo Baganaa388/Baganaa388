@@ -16,13 +16,16 @@
       <td valign="middle" align="center" width="50%">
         <h4>Tech Stack</h4>
         <br/>
-        <img width="440" src="https://skillicons.dev/icons?i=cpp,py,java,bash,gcp,aws,linux,docker&perline=4" />
+        <img width="400" src="https://skillicons.dev/icons?i=cpp,py,java,bash,gcp,aws,linux,docker&perline=4" />
         <br/><br/>
         <sub>Languages · Tools </sub>
       </td>
       <td valign="middle" align="center" width="50%">
         <h4>Activity</h4>
+        <br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=transparent&hide_border=true&card_width=380" />
+        <br/><br/>
+        <sub>Total · Current · Longest</sub>
       </td>
     </tr>
   </table>
