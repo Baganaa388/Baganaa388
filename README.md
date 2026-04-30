@@ -21,11 +21,11 @@
         <sub>Languages · Tools </sub>
       </td>
       <td valign="middle" align="center" width="50%">
-        <h4>Activity</h4>
+        <h4>Stats</h4>
         <br/>
-        <img src="https://streak-stats.demolab.com/?user=Baganaa388&theme=transparent&hide_border=true&card_width=380" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Baganaa388&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=transparent&card_width=380&hide=issues" />
         <br/><br/>
-        <sub>Total · Current · Longest</sub>
+        <sub>Stars · Commits · PRs</sub>
       </td>
     </tr>
   </table>
