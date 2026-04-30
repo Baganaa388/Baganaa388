@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Baganaa</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+something+new&center=true&width=380&height=30&color=8b949e&vCenter=true&size=16&duration=4000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+something+new&center=true&width=380&height=30&color=8b949e&vCenter=true&size=16&duration=4000"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
       <td valign="middle" align="center" width="50%">
         <h4>Activity</h4>
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baganaa388&theme=transparent&hide_border=true&card_width=380" />
+        <img src="https://streak-stats.demolab.com/?user=Baganaa388&theme=transparent&hide_border=true&card_width=380" />
         <br/><br/>
         <sub>Total · Current · Longest</sub>
       </td>
